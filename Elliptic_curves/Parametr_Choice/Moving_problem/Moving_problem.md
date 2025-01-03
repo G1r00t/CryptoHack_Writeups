@@ -128,3 +128,4 @@ print(secret)
 flag = decrypt_flag(secret, encrypted_flag)
 print(flag)
 ```
+`crypto{MOV_attack_on_non_supersingular_curves}`
